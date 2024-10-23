@@ -1,4 +1,4 @@
-package uri1004;
+package URI1004;
 
 import java.util.Scanner;
 
